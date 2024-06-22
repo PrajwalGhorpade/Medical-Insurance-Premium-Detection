@@ -1,1 +1,8 @@
-# Medical-Insurance-Premium-Detection
+# Medical-Insurance-Premium-Prediction
+
+# Flask
+# Numpy
+# Pandas
+# Scikit Learn
+
+
